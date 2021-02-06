@@ -1,4 +1,6 @@
-你好，我是道道里，一名前端开发者👨‍💻。。
+你好，我是道道里，一名前端开发者👨‍💻
+
+我的博客：https://daodaolee.cn
 
 我的开源项目：
 * [typora-scrolls](https://github.com/daodaolee/typora-scrolls)
