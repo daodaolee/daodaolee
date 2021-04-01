@@ -1,6 +1,6 @@
 Hi, I'm DaoDaoLee，a front-end developer👨‍💻
 
-[博客]https://daodaolee.cn / [掘金](https://juejin.cn/user/166781497122039)
+[博客](https://daodaolee.cn) / [掘金](https://juejin.cn/user/166781497122039)
 
 公众号：道道里的前端栈
 
