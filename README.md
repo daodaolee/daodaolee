@@ -1,8 +1,6 @@
 Hi, I'm DaoDaoLee，a front-end developer👨‍💻
 
-博客：[DaoDaoLeeのblog](https://daodaolee.cn) / 掘金：[道道里](https://juejin.cn/user/166781497122039) / 公众号：道道里的前端栈
-
-<img src="https://i.loli.net/2021/02/04/R6K7iwTcYjEfVke.jpg" width="150" />
+博客：[DaoDaoLeeのblog](https://daodaolee.cn) / 掘金：[道道里](https://juejin.cn/user/166781497122039) / 公众号：[道道里的前端栈](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1dcf733091574de1b3aa3b6e854ececb~tplv-k3u1fbpfcp-watermark.image)
 
 Languages and Tools:
 
