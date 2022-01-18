@@ -13,6 +13,7 @@ Hi, I'm DaoDaoLee，a front-end developer👨‍💻
 * 一个掘金社区的主题：[juejin-markdown-theme-scrolls](https://github.com/daodaolee/juejin-markdown-theme-scrolls)，黑色：[juejin-markdown-theme-scrolls-dark](https://github.com/daodaolee/juejin-markdown-theme-scrolls-dark)
 * 一个书签快速查询的谷歌浏览器插件：[bookmark-search](https://github.com/daodaolee/bookmark-search)
 * 一个基于vuepress的沉浸式音乐播放插件：[vuepress-plugin-awesome-musicplayer](https://github.com/daodaolee/vuepress-plugin-awesome-musicplayer)
+* 一个mac端网易云音乐云盘上传程序：[netease-cloud](https://github.com/daodaolee/netease-cloud)
 
 **我发起了一个[⛱周刊翻译计划](https://github.com/FEDarling/fe-translate-weekly)，欢迎有兴趣的小伙伴一起来完善它，纯属个人兴趣，当然对于提升英语和前端技能也会有帮助，要求：英语不要差的离谱就好、github熟练使用、有恒心、谦虚、对自己做的事负责。 想参与的小伙伴，可以给仓库发issue留言，可以[微信](https://cdn.jsdelivr.net/gh/daodaolee/photobed/img/202111162148554.jpg)私信我，我[博客](https://daodaolee.cn)也有具体的个人联系方式。**
 
