@@ -1,12 +1,18 @@
-Hi, I'm DaoDaoLee，a front-end developer👨‍💻
+### Hi, I'm DaoDaoLee，a front-end developer👨‍💻
+<a href="https://github.com/daodaolee">
+    <div align="right" >
+        <img align="right" src="https://count.getloli.com/get/@daodaolee?theme=moebooru" alt="daodaolee" />
+    </div>
+</a>
 
 博客：[DaoDaoLeeのblog](https://daodaolee.cn) / 掘金：[道道里](https://juejin.cn/user/166781497122039) / 公众号：[道道里的前端栈](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1dcf733091574de1b3aa3b6e854ececb~tplv-k3u1fbpfcp-watermark.image)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png"></code>
 
 喜欢做一点小玩意儿：
 * 一个typora的羊皮卷主题：[typora-scrolls](https://github.com/daodaolee/typora-scrolls)
