@@ -17,7 +17,8 @@
 喜欢做一点小玩意儿：
 * 一个typora的羊皮卷主题：[typora-scrolls](https://github.com/daodaolee/typora-scrolls)
 * 一个掘金社区的主题：[juejin-markdown-theme-scrolls](https://github.com/daodaolee/juejin-markdown-theme-scrolls)，黑色：[juejin-markdown-theme-scrolls-dark](https://github.com/daodaolee/juejin-markdown-theme-scrolls-dark)
-* 一个书签快速查询的谷歌浏览器插件：[bookmark-search](https://github.com/daodaolee/bookmark-search)
+* 一个书签快速查询的谷歌浏览器标签页插件：[protal widgets](https://github.com/daodaolee/portal-widgets-extension)，旧版：[bookmark-search](https://github.com/daodaolee/bookmark-search)
+
 * 一个基于vuepress的沉浸式音乐播放插件：[vuepress-plugin-awesome-musicplayer](https://github.com/daodaolee/vuepress-plugin-awesome-musicplayer)
 * 一个mac端网易云音乐云盘上传程序：[netease-cloud](https://github.com/daodaolee/netease-cloud)
 
