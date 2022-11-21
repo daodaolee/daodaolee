@@ -1,27 +1,3 @@
-### Hi, I'm DaoDaoLee，a front-end developer👨‍💻
-<a href="https://github.com/daodaolee">
-    <div align="right" >
-        <img align="right" src="https://count.getloli.com/get/@daodaolee?theme=moebooru" alt="daodaolee" />
-    </div>
-</a>
+Minimalist&emsp;&&&emsp;Glimmer
 
-博客：[DaoDaoLeeのblog](https://daodaolee.cn) / 掘金：[道道里](https://juejin.cn/user/166781497122039) / 公众号：[道道里的前端栈](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1dcf733091574de1b3aa3b6e854ececb~tplv-k3u1fbpfcp-watermark.image)
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png"></code>
-
-喜欢做一点小玩意儿：
-* 一个typora的羊皮卷主题：[typora-scrolls](https://github.com/daodaolee/typora-scrolls)
-* 一个掘金社区的主题：[juejin-markdown-theme-scrolls](https://github.com/daodaolee/juejin-markdown-theme-scrolls)，黑色：[juejin-markdown-theme-scrolls-dark](https://github.com/daodaolee/juejin-markdown-theme-scrolls-dark)
-* 一个书签快速查询的谷歌浏览器标签页插件：[protal widgets](https://github.com/daodaolee/portal-widgets-extension)，旧版：[bookmark-search](https://github.com/daodaolee/bookmark-search)
-* 一个基于vuepress的沉浸式音乐播放插件：[vuepress-plugin-awesome-musicplayer](https://github.com/daodaolee/vuepress-plugin-awesome-musicplayer)
-* 一个mac端网易云音乐云盘上传程序：[netease-cloud](https://github.com/daodaolee/netease-cloud)
-* 一个中国风的色彩预览：[china-color](https://china-color.vercel.app/)
-
-**我发起了一个[⛱周刊翻译计划](https://github.com/FEDarling/fe-translate-weekly)，欢迎有兴趣的小伙伴一起来完善它，纯属个人兴趣，当然对于提升英语和前端技能也会有帮助，要求：英语不要差的离谱就好、github熟练使用、有恒心、谦虚、对自己做的事负责。 想参与的小伙伴，可以给仓库发issue留言，可以[微信](https://cdn.jsdelivr.net/gh/daodaolee/photobed/img/202111162148554.jpg)私信我，我[博客](https://daodaolee.cn)也有具体的个人联系方式。**
-
-![DaoDaoLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=daodaolee&show_icons=true&include_all_commits=true)
+<sub>[Blog](https://daodaolee.cn)&emsp;·&emsp;[Juejin](https://juejin.cn/user/166781497122039)&emsp;·&emsp;[Bilibili](https://space.bilibili.com/294106298?spm_id_from=333.1007.0.0)&emsp;·&emsp;[Twitter](https://twitter.com/daodaolee_)&emsp;·&emsp;[Instagram](https://www.instagram.com/daodaoleee/)&emsp;·&emsp;[Dribbble](https://dribbble.com/daodaolee)&emsp;·&emsp;[Wechat Offical Accounts](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1dcf733091574de1b3aa3b6e854ececb~tplv-k3u1fbpfcp-watermark.image)</sub>
