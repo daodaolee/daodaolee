@@ -1,5 +1,10 @@
 
-<p align="center" dir="auto">
+<p align="center">
+  <samp>
+    Minimalist && Glimmer
+  </samp>
+</p>
+<p align="center">
   <samp>
     <sub>
       <a href="https://daodaolee.cn">Blog</a>&emsp;·&emsp;
